@@ -1,0 +1,24 @@
+
+p {
+    text-align: center;color: white; 
+}
+/* Codigos para mudar a cor de texto e o alinhamento do paragrafo */
+body{background-color: black;width: 100%;margin: auto;text-align: center;}
+/* Codigo da body com a cor de fundo, margem e alinhamento */
+h1{text-align: center;color: slateblue;}
+/* Codigo do Titúlo 1 com alinhamento e cor de texto. */
+h2{text-align: center;color: slateblue;}
+/* Codigo do Titúlo 2 com alinhamento e cor de texto. */
+h4{color: slateblue;text-align: center;}
+/* Codigo do Titúlo 4 com alinhamento e cor de texto. */
+li{text-align: center;color: aliceblue;}
+/*Marcação de lista, alinhamento e a cor de texto.*/
+img{align-items: center;width: 500;}
+/* Imagem alinhada e o ajustamento do tamanho dela. */
+.myDiv {
+    border: 2,5px outset slateblue;
+    background-color: rgb(185, 192, 195);    
+    text-align: center;
+    color: black;
+  }
+/* A div com a borda com cor, cor de fundo,alinhamento e a cor de texto. */
